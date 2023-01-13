@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>by.htp.ex</groupId>
 	<artifactId>jwd-newsmgmt</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>0.0.1</version>
 	<name>jwd-newsmgmt</name>
 	<url>http://maven.apache.org</url>
